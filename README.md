@@ -1,14 +1,11 @@
-[![MasterHead](https://i.pinimg.com/564x/1f/87/b2/1f87b29a2df46100a75aa86b170a21cb.jpg)]
 <h1 align="center">Hi, I'm Pooja Ramnaney</h1>
 <h3 align="center">Passionate Frontend Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojaramnaney&label=Profile%20views&color=0e75b6&style=flat" alt="poojaramnaney" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poojaramnaney" alt="poojaramnaney" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/pooja_ramnaney" target="blank"><img src="https://img.shields.io/twitter/follow/pooja_ramnaney?logo=twitter&style=for-the-badge" alt="pooja_ramnaney" /></a> </p>
 
-- 🔭 I’m currently working on **a college project**
+- 🔭 I’m currently working on **AI based voice chat bot**
 
 - 🌱 I’m currently learning **Web development, DSA**
 
