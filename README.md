@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **poojaramnaney@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MASR1580egtp3ntjQKw5WuLEa5oDSf0-/view?usp=sharing](https://drive.google.com/file/d/1MASR1580egtp3ntjQKw5WuLEa5oDSf0-/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Jztu0lbBqyIfkJ27mPrkoXDVROi4W2fT/view?usp=sharing)
 
 - ⚡ Fun fact **I love pizza!**
 
