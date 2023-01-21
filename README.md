@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojaramnaney&label=Profile%20views&color=0e75b6&style=flat" alt="poojaramnaney" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pooja_ramnaney" target="blank"><img src="https://img.shields.io/twitter/follow/pooja_ramnaney?logo=twitter&style=for-the-badge" alt="pooja_ramnaney" /></a> </p>
-
-- 🔭 I’m currently working on **AI based voice chat bot**
+- Here's my portfolio [Portfolio](https://pooja-ramnaney-portfolio.vercel.app/)
+- 🔭 I’m currently working on **3D Rental Platform**
 
 - 🌱 I’m currently learning **Web development, DSA**
 
