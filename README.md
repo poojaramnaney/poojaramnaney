@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/pooja_ramnaney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pooja_ramnaney" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pooja-ramnaney-b74a8a22a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooja-ramnaney-b74a8a22a" height="30" width="40" /></a>
-<a href="https://instagram.com/pooja_ramnaney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pooja_ramnaney" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/pooja_ramnaney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pooja_ramnaney" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
