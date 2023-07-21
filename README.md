@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **poojaramnaney@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Jztu0lbBqyIfkJ27mPrkoXDVROi4W2fT/view?usp=sharing) and [Portfolio](https://pooja-ramnaney-portfolio.vercel.app/)
+- 📄 Know about my experiences [Portfolio](https://pooja-ramnaney-portfolio.vercel.app/)
 
 - ⚡ Fun fact **I love pizza!**
 
