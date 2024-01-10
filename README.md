@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **poojaramnaney@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://pooja-ramnaney-portfolio.vercel.app/)
-
 - ⚡ Fun fact **I love pizza!**
 
 <h3 align="left">Connect with me:</h3>
